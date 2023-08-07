@@ -1,0 +1,6 @@
+{
+    "balance": 5000.0,
+    "limit": 20000.0,
+    "operations": [{"type": "In", "spot": 1.0, "spread": 0.5, "fx_quantity": 10000.0, "created_at": "2023-07-19T21:07:22.556467"},
+                   {"type": "Out", "spot": 1.0, "spread": 0.5, "fx_quantity": 10000.0, "created_at": "2023-07-20T21:07:22.556467"}]
+  }

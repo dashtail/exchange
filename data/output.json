@@ -1,0 +1,16 @@
+{
+  "client_info": {
+    "balance": -5000.0,
+    "limit": 0.0
+  },
+  "operations": [
+    {
+      "real_quantity": 5000.0,
+      "created_at": "2023-07-19T21:07:22.556467"
+    },
+    {
+      "real_quantity": -15000.0,
+      "created_at": "2023-07-20T21:07:22.556467"
+    }
+  ]
+}
